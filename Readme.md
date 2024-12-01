@@ -17,3 +17,11 @@
 # Netflix Case Study
 
 **Technology Used :** Python Libraries
+
+# Jamboree Education Case Study
+
+**Technology Used :** Python Libraries, Linear Regression
+
+# LoanTap Case Study
+
+**Technology Used :** Python Libraries, Logistic Regression
